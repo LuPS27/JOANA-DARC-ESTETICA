@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lups27.github.io/JOANA-DARC-ESTETICA/sitemap.xml
