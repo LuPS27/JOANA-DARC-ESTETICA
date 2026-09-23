@@ -1,5 +1,16 @@
 # JOANA-DARC-ESTETICA
 
-Site da Joana Darc Estética Avançada / Darc Clinic, em Betim - MG.
+Site institucional responsivo da Joana Darc Estética Avançada / Darc Clinic, em Betim - MG.
 
-Projeto estático responsivo com página principal, blog, SEO básico, WhatsApp, mapa e imagens dos atendimentos.
+## Conteúdo atual
+- Página principal responsiva
+- Procedimentos e apresentação profissional
+- WhatsApp e Instagram
+- Endereço, horários e mapa
+- FAQ
+- SEO básico com dados estruturados
+- `robots.txt`, `sitemap.xml` e `llms.txt`
+- Imagens principais dos atendimentos
+
+## Publicação
+O projeto é estático e pode ser publicado pelo GitHub Pages usando a branch `main` e a pasta `/(root)`.
